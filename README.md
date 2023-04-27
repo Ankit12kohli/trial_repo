@@ -19,3 +19,9 @@ _This is italic_
 
 * level 1
   * level 2 
+
+1. Number 1
+2. Number 2
+
+3. 
+   1. number 1
