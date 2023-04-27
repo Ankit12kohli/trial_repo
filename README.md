@@ -9,3 +9,5 @@
 _This is italic_
 
 **This is bold**
+
+`This is a code block`
