@@ -5,3 +5,7 @@
 
 [Google Search Engine](https://www.google.com)
 ![Warehouse Image](preview_56483.jpg)
+
+_This is italic_
+
+**This is bold**
