@@ -23,5 +23,5 @@ _This is italic_
 1. Number 1
 2. Number 2
 
-3. 
    1. number 1
+   2. number 2
